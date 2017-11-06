@@ -2,31 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { CarsMenu } from './CarsMenu';
 
-function getColumns() {
-  return [
-    {
-      Header: "Engine",
-      accessor: "engine"
-    },
-    {
-      Header: "Power Output",
-      accessor: "power_output"
-    },
-    {
-      Header: "Transmission",
-      accessor: "transimission"
-    },
-    {
-      Header: "Curb Weight",
-      accessor: "curb_weight"
-    },
-    {
-      Header: "Country",
-      accessor: "country"
-    }
-  ]
-}
-
 export const CarPage = (props) => {
   const cars = props.cars;
   const car = props.car;

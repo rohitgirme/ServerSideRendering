@@ -1,5 +1,6 @@
 /**
- * Created by rohitgirme on 8/9/17.
+ * Redux store.
+ * Used on server and client
  */
 
 import reducers from './reducers';
