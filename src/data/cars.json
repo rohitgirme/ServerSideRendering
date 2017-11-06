@@ -1,0 +1,92 @@
+[
+  {
+    "id":"porsche",
+    "name":"Porsche Carrera GT",
+    "year":"2003",
+    "cover":"carrera.jpg",
+    "image":"porsche-logo.jpg",
+    "link":"https://en.wikipedia.org/wiki/Porsche_Carrera_GT",
+    "facts":{
+      "engine": "5.7 L V10 DOHC",
+      "power_output":"450 kW (603 PS)",
+      "transmission":"6-speed manual",
+      "curb_weight":"1427 kg",
+      "country":"Leipzig, Germany"
+    }
+  },
+  {
+    "id":"ferrari",
+    "name":"Ferrari 288 GTO",
+    "year":"1983",
+    "cover":"288gto.jpg",
+    "image":"ferrari-logo.png",
+    "link":"https://en.wikipedia.org/wiki/Ferrari_288_GTO",
+    "facts":{
+      "engine": "2.9 L twin turbo V8",
+      "power_output":"298 kW (400 PS)",
+      "transmission":"5-speed manual",
+      "curb_weight":"1160 kg",
+      "country":"Italy"
+    }
+  },
+  {
+    "id":"jaguar",
+    "name":"Jaguar XJ220",
+    "year":"1992",
+    "cover":"xj220.jpg",
+    "image":"jaguar-logo.png",
+    "link":"https://en.wikipedia.org/wiki/Jaguar_XJ220",
+    "facts":{
+      "engine": "3.5 L twin-turbocharged V6",
+      "power_output":"400 kW (550 PS)",
+      "transmission":"5-speed manual",
+      "curb_weight":"1470 kg",
+      "country":"Oxfordshire, United Kingdom"
+    }
+  },
+  {
+    "id":"lamborghini",
+    "name":"Lamborghini Miura",
+    "year":"1966",
+    "cover":"miura.jpg",
+    "image":"lamborghini-logo.jpg",
+    "link":"https://en.wikipedia.org/wiki/Lamborghini_Miura",
+    "facts":{
+      "engine": "3929 cc V12",
+      "power_output":"283 kW (385 PS)",
+      "transmission":"5-speed manual",
+      "curb_weight":"1292 kg",
+      "country":"Italy"
+    }
+  },
+  {
+    "id":"mazda",
+    "name":"Mazda Miata",
+    "year":"1989",
+    "cover":"miata.png",
+    "image":"mazda-logo.png",
+    "link":"https://en.wikipedia.org/wiki/Mazda_MX-5",
+    "facts":{
+      "engine": "2.0 L SkyActiv-G I4",
+      "power_output":"118 kW (160 PS)",
+      "transmission":"6-speed manual",
+      "curb_weight":"1058 kg",
+      "country":"Hiroshima, Japan"
+    }
+  },
+  {
+    "id":"pagani",
+    "name":"Pagani Huayra",
+    "year":"2012",
+    "cover":"zonda.jpg",
+    "image":"pagani-logo.jpg",
+    "link":"https://en.wikipedia.org/wiki/Pagani_Huayra",
+    "facts":{
+      "engine": "5980 cc AMG bi-turbo V12",
+      "power_output":"537 kW (730 PS)",
+      "transmission":"7-speed sequential",
+      "curb_weight":"1350 kg",
+      "country":"Modena, Italy"
+    }
+  }
+]
